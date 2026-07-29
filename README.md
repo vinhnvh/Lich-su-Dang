@@ -9,7 +9,11 @@ Kho tàng kiến thức tổng hợp môn Lịch sử Đảng Cộng sản Việ
 - Các văn kiện, tư tưởng, bài học kinh nghiệm
 - Hệ thống liên kết đầy đủ
 
-## 🚀 Cách sử dụng
+## 🚀 Cách sử dụng - Github
+
+1. Mở trực tiếp là được
+
+## 🚀 Cách sử dụng - Obsidian
 
 1. Cài đặt Obsidian
 2. Mở thư mục này như một Vault
@@ -21,4 +25,4 @@ MIT License - Tự do sử dụng, ghi công tác giả.
 
 ## 🙏 Ghi nhận
 
-Tổng hợp từ giáo trình Lịch sử Đảng Cộng sản Việt Nam.
+Tổng hợp từ giáo trình Lịch sử Đảng Cộng sản Việt Nam. (NEU)
