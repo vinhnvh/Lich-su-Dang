@@ -12,5 +12,5 @@
 - Giành quyền chủ động chiến lược trên chiến trường Bắc Bộ.
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Khang chien chong Phap|Kháng chiến chống Pháp]]
-- [[05_Nhan_vat/Vo Nguyen Giap|Võ Nguyên Giáp]]
+- [Kháng chiến chống Pháp](03_Chuong_2_1945_1975/Su_kien_Khang%20chien%20chong%20Phap.md)
+- [Võ Nguyên Giáp](05_Nhan_vat/Vo%20Nguyen%20Giap.md)

@@ -10,4 +10,4 @@
 - Tạo tiền đề cho khởi nghĩa ở Huế (23/8) và Sài Gòn (25/8).
 
 ## Liên kết
-- [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Cách mạng Tháng Tám]]
+- [Cách mạng Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md)

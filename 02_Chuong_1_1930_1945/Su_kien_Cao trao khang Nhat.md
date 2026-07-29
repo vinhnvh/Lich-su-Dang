@@ -11,8 +11,8 @@
 
 ## Ý nghĩa
 - Tạo ra lực lượng và thế trận cách mạng vững chắc.
-- Là bước chuẩn bị trực tiếp cho [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Tổng khởi nghĩa Tháng Tám]].
+- Là bước chuẩn bị trực tiếp cho [Tổng khởi nghĩa Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md).
 
 ## Liên kết
-- [[02_Chuong_1_1930_1945/Su_kien_Hoi nghi Trung uong 8 5_1941|Hội nghị Trung ương 8]]
-- [[05_Nhan_vat/Vo Nguyen Giap|Võ Nguyên Giáp]]
+- [Hội nghị Trung ương 8](02_Chuong_1_1930_1945/Su_kien_Hoi%20nghi%20Trung%20uong%208%205_1941.md)
+- [Võ Nguyên Giáp](05_Nhan_vat/Vo%20Nguyen%20Giap.md)

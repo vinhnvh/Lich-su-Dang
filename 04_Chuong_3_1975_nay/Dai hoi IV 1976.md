@@ -14,5 +14,5 @@
 - Cổ vũ toàn dân xây dựng đất nước.
 
 ## Liên kết
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
-- [[04_Chuong_3_1975_nay/Su_kien_Thong nhat dat nuoc 1976|Thống nhất đất nước]]
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
+- [Thống nhất đất nước](04_Chuong_3_1975_nay/Su_kien_Thong%20nhat%20dat%20nuoc%201976.md)

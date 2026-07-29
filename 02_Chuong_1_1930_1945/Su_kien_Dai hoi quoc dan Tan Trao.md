@@ -6,8 +6,8 @@
 ## Quyết định
 - Tán thành Tổng khởi nghĩa.
 - Thông qua 10 chính sách lớn của Việt Minh.
-- Thành lập [[06_To_chuc/Uy ban giai phong dan toc|Ủy ban giải phóng dân tộc Việt Nam]] (Hồ Chí Minh làm Chủ tịch).
+- Thành lập [Ủy ban giải phóng dân tộc Việt Nam](06_To_chuc/Uy%20ban%20giai%20phong%20dan%20toc.md) (Hồ Chí Minh làm Chủ tịch).
 
 ## Liên kết
-- [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Cách mạng Tháng Tám]]
-- [[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]
+- [Cách mạng Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md)
+- [Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)

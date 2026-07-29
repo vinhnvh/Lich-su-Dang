@@ -14,5 +14,5 @@
 - Củng cố chính quyền, chuẩn bị cho kháng chiến toàn quốc.
 
 ## Liên kết
-- [[10_Quy_che_To_chuc_Nha_nuoc/Nha_nuoc_Viet Nam Dan chu Cong hoa|Việt Nam Dân chủ Cộng hòa]]
-- [[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]
+- [Việt Nam Dân chủ Cộng hòa](10_Quy_che_To_chuc_Nha_nuoc/Nha_nuoc_Viet%20Nam%20Dan%20chu%20Cong%20hoa.md)
+- [Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)

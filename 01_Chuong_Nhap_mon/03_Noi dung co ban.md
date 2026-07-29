@@ -7,7 +7,7 @@
 - Công tác xây dựng Đảng.
 
 ## Các giai đoạn chính
-1. **1930-1945**: Đảng ra đời, lãnh đạo đấu tranh giành chính quyền ([[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Cách mạng Tháng Tám]]).
+1. **1930-1945**: Đảng ra đời, lãnh đạo đấu tranh giành chính quyền ([Cách mạng Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md)).
 2. **1945-1975**: Kháng chiến chống Pháp và Mỹ, giải phóng miền Nam, thống nhất đất nước.
 3. **1975-nay**: Xây dựng CNXH và đổi mới.
 

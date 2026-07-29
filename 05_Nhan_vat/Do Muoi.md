@@ -15,10 +15,10 @@
 - **Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam** (1988 - 1991)
 
 ### Tham gia các sự kiện quan trọng
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VI_Doi moi 1986|Đại hội VI (1986)]] – tham gia xây dựng đường lối đổi mới.
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VII 1991|Đại hội VII (1991)]] – được bầu làm Tổng Bí thư.
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VIII 1996|Đại hội VIII (1996)]] – tiếp tục lãnh đạo công cuộc đổi mới.
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]] – thông qua dưới sự lãnh đạo của ông.
+- [Đại hội VI (1986)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VI_Doi%20moi%201986.md) – tham gia xây dựng đường lối đổi mới.
+- [Đại hội VII (1991)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VII%201991.md) – được bầu làm Tổng Bí thư.
+- [Đại hội VIII (1996)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VIII%201996.md) – tiếp tục lãnh đạo công cuộc đổi mới.
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md) – thông qua dưới sự lãnh đạo của ông.
 
 ### Các chức vụ quan trọng
 - **Ủy viên Bộ Chính trị các khóa IV, V, VI, VII**
@@ -29,17 +29,17 @@
 ## Đóng góp quan trọng
 
 ### 1. Tham gia xây dựng và thực hiện đường lối đổi mới
-- Cùng [[05_Nhan_vat/Truong Chinh|Trường Chinh]] và [[05_Nhan_vat/Le Duan|Lê Duẩn]] khởi xướng công cuộc đổi mới đất nước.
-- Tích cực tham gia xây dựng đường lối đổi mới tại [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VI_Doi moi 1986|Đại hội VI (1986)]].
+- Cùng [Trường Chinh](05_Nhan_vat/Truong%20Chinh.md) và [Lê Duẩn](05_Nhan_vat/Le%20Duan.md) khởi xướng công cuộc đổi mới đất nước.
+- Tích cực tham gia xây dựng đường lối đổi mới tại [Đại hội VI (1986)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VI_Doi%20moi%201986.md).
 - Là một trong những lãnh đạo trực tiếp chỉ đạo thực hiện các chính sách đổi mới.
 
 ### 2. Thủ tướng Chính phủ (1988-1991)
 - Là Thủ tướng Chính phủ trong giai đoạn khó khăn nhất của công cuộc đổi mới.
-- Trực tiếp chỉ đạo thực hiện [[07_Van_kien/Nghi quyet 10 ve khoan|Nghị quyết 10 (1988)]] – "cuộc cách mạng" trong nông nghiệp, giải phóng sức sản xuất ở nông thôn.
+- Trực tiếp chỉ đạo thực hiện [Nghị quyết 10 (1988)](07_Van_kien/Nghi%20quyet%2010%20ve%20khoan.md) – "cuộc cách mạng" trong nông nghiệp, giải phóng sức sản xuất ở nông thôn.
 - Tổ chức thực hiện các chính sách kinh tế mới, từng bước chuyển sang nền kinh tế thị trường.
 
 ### 3. Tổng Bí thư (1991-1997)
-- Lãnh đạo Đảng thông qua **[[07_Van_kien/Cuong linh 1991|Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội]]** tại [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VII 1991|Đại hội VII (1991)]].
+- Lãnh đạo Đảng thông qua **[Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội](07_Van_kien/Cuong%20linh%201991.md)** tại [Đại hội VII (1991)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VII%201991.md).
 - Xác định mô hình **kinh tế thị trường định hướng xã hội chủ nghĩa** là mô hình tổng quát của nước ta.
 - Đề ra Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000.
 - Chủ trương mở rộng quan hệ đối ngoại, phá thế bị bao vây, cấm vận.
@@ -56,15 +56,15 @@
 - Thực hiện tự phê bình và phê bình, đấu tranh chống các biểu hiện tiêu cực trong Đảng.
 
 ## Mối quan hệ với các nhân vật khác
-- **[[05_Nhan_vat/Truong Chinh|Trường Chinh]]** – Cùng khởi xướng công cuộc đổi mới (1986).
-- **[[05_Nhan_vat/Le Duan|Lê Duẩn]]** – Cùng lãnh đạo đất nước thời kỳ xây dựng CNXH.
-- **[[05_Nhan_vat/Nong Duc Manh|Nông Đức Mạnh]]** – Người kế tục sự nghiệp sau khi ông từ nhiệm.
-- **[[05_Nhan_vat/Nguyen Phu Trong|Nguyễn Phú Trọng]]** – Tiếp nối công cuộc xây dựng, chỉnh đốn Đảng.
+- **[Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)** – Cùng khởi xướng công cuộc đổi mới (1986).
+- **[Lê Duẩn](05_Nhan_vat/Le%20Duan.md)** – Cùng lãnh đạo đất nước thời kỳ xây dựng CNXH.
+- **[Nông Đức Mạnh](05_Nhan_vat/Nong%20Duc%20Manh.md)** – Người kế tục sự nghiệp sau khi ông từ nhiệm.
+- **[Nguyễn Phú Trọng](05_Nhan_vat/Nguyen%20Phu%20Trong.md)** – Tiếp nối công cuộc xây dựng, chỉnh đốn Đảng.
 
 ## Các văn kiện liên quan
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]] – thông qua dưới sự lãnh đạo của ông.
-- [[07_Van_kien/Nghi quyet 10 ve khoan|Nghị quyết 10 (1988)]] – trực tiếp chỉ đạo thực hiện.
-- [[07_Van_kien/Chi thi 100 ve khoan|Chỉ thị 100 (1981)]] – tiền đề cho đổi mới nông nghiệp.
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md) – thông qua dưới sự lãnh đạo của ông.
+- [Nghị quyết 10 (1988)](07_Van_kien/Nghi%20quyet%2010%20ve%20khoan.md) – trực tiếp chỉ đạo thực hiện.
+- [Chỉ thị 100 (1981)](07_Van_kien/Chi%20thi%20100%20ve%20khoan.md) – tiền đề cho đổi mới nông nghiệp.
 
 ## Thành tựu và ghi nhận
 - Là nhà lãnh đạo xuất sắc trong công cuộc đổi mới đất nước.
@@ -74,28 +74,28 @@
 
 ## Liên kết
 ### Sự kiện
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VI_Doi moi 1986|Đại hội VI (1986)]]
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VII 1991|Đại hội VII (1991)]]
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VIII 1996|Đại hội VIII (1996)]]
-- [[04_Chuong_3_1975_nay/Su_kien_Viet Nam gia nhap WTO 2007|Gia nhập WTO]]
+- [Đại hội VI (1986)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VI_Doi%20moi%201986.md)
+- [Đại hội VII (1991)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VII%201991.md)
+- [Đại hội VIII (1996)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VIII%201996.md)
+- [Gia nhập WTO](04_Chuong_3_1975_nay/Su_kien_Viet%20Nam%20gia%20nhap%20WTO%202007.md)
 
 ### Nhân vật
-- [[05_Nhan_vat/Truong Chinh|Trường Chinh]]
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
-- [[05_Nhan_vat/Nong Duc Manh|Nông Đức Mạnh]]
-- [[05_Nhan_vat/Nguyen Phu Trong|Nguyễn Phú Trọng]]
-- [[05_Nhan_vat/Pham Van Dong|Phạm Văn Đồng]]
+- [Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
+- [Nông Đức Mạnh](05_Nhan_vat/Nong%20Duc%20Manh.md)
+- [Nguyễn Phú Trọng](05_Nhan_vat/Nguyen%20Phu%20Trong.md)
+- [Phạm Văn Đồng](05_Nhan_vat/Pham%20Van%20Dong.md)
 
 ### Văn kiện
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]]
-- [[07_Van_kien/Nghi quyet 10 ve khoan|Nghị quyết 10]]
-- [[07_Van_kien/Chi thi 100 ve khoan|Chỉ thị 100]]
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md)
+- [Nghị quyết 10](07_Van_kien/Nghi%20quyet%2010%20ve%20khoan.md)
+- [Chỉ thị 100](07_Van_kien/Chi%20thi%20100%20ve%20khoan.md)
 
 ### Bài học
-- [[09_Bai_hoc/Xay dung Dang|Xây dựng Đảng vững mạnh]]
-- [[09_Bai_hoc/Ket hop suc manh dan toc va thoi dai|Kết hợp sức mạnh dân tộc và thời đại]]
-- [[09_Bai_hoc/Chop thoi co|Nghệ thuật chớp thời cơ]]
+- [Xây dựng Đảng vững mạnh](09_Bai_hoc/Xay%20dung%20Dang.md)
+- [Kết hợp sức mạnh dân tộc và thời đại](09_Bai_hoc/Ket%20hop%20suc%20manh%20dan%20toc%20va%20thoi%20dai.md)
+- [Nghệ thuật chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)
 
 ### Tư tưởng
-- [[08_Tu_tuong/Dao duc|Tư tưởng đạo đức cách mạng]]
-- [[08_Tu_tuong/Dai doan ket|Tư tưởng đại đoàn kết]]
+- [Tư tưởng đạo đức cách mạng](08_Tu_tuong/Dao%20duc.md)
+- [Tư tưởng đại đoàn kết](08_Tu_tuong/Dai%20doan%20ket.md)

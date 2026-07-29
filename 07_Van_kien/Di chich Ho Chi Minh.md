@@ -11,5 +11,5 @@
 - Thể hiện đạo đức và tư tưởng đại đoàn kết.
 
 ## Liên kết
-- [[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]
-- [[09_Bai_hoc/Xay dung Dang|Xây dựng Đảng]]
+- [Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)
+- [Xây dựng Đảng](09_Bai_hoc/Xay%20dung%20Dang.md)

@@ -6,7 +6,7 @@
 
 ## Kết quả
 - Loại khỏi vòng chiến đấu một bộ phận lớn quân địch.
-- Tạo thế vây ép Sài Gòn, chuẩn bị cho [[03_Chuong_2_1945_1975/Su_kien_Chien dich Ho Chi Minh 1975|Chiến dịch Hồ Chí Minh]].
+- Tạo thế vây ép Sài Gòn, chuẩn bị cho [Chiến dịch Hồ Chí Minh](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Ho%20Chi%20Minh%201975.md).
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Chien dich Tay Nguyen 1975|Chiến dịch Tây Nguyên]]
+- [Chiến dịch Tây Nguyên](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Tay%20Nguyen%201975.md)

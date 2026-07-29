@@ -12,5 +12,5 @@
 - Miền Bắc trở thành hậu phương vững chắc, chi viện cho miền Nam.
 
 ## Liên kết
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
-- [[03_Chuong_2_1945_1975/Su_kien_Phong trao Dong khoi 1960|Đồng khởi]]
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
+- [Đồng khởi](03_Chuong_2_1945_1975/Su_kien_Phong%20trao%20Dong%20khoi%201960.md)

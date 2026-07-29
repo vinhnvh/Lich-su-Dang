@@ -10,5 +10,5 @@
 - Tạo cơ sở để Bộ Chính trị quyết định giải phóng miền Nam trong năm 1975.
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Chien dich Tay Nguyen 1975|Chiến dịch Tây Nguyên]]
-- [[09_Bai_hoc/Chop thoi co|Bài học chớp thời cơ]]
+- [Chiến dịch Tây Nguyên](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Tay%20Nguyen%201975.md)
+- [Bài học chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)

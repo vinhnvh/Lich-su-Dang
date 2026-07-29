@@ -15,5 +15,5 @@
 - Giữ gìn hòa bình, ổn định để xây dựng đất nước.
 
 ## Liên kết
-- [[04_Chuong_3_1975_nay/Dai hoi IV 1976|Đại hội IV]]
-- [[09_Bai_hoc/Xay dung Dang|Xây dựng Đảng]]
+- [Đại hội IV](04_Chuong_3_1975_nay/Dai%20hoi%20IV%201976.md)
+- [Xây dựng Đảng](09_Bai_hoc/Xay%20dung%20Dang.md)

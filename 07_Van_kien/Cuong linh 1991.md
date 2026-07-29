@@ -10,5 +10,5 @@
 - Định hướng sự nghiệp đổi mới.
 
 ## Liên kết
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VII 1991|Đại hội VII]]
-- [[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung 2011]]
+- [Đại hội VII](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VII%201991.md)
+- [Cương lĩnh bổ sung 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md)

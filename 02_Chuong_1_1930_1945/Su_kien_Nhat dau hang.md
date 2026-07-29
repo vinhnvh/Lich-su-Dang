@@ -10,7 +10,7 @@
 ## Ý nghĩa
 - Đây là **thời cơ "ngàn năm có một"** cho cách mạng Việt Nam.
 - Quân Nhật mất tinh thần, chính quyền tay sai rệu rã.
-- Đảng ta lập tức phát lệnh [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Tổng khởi nghĩa]].
+- Đảng ta lập tức phát lệnh [Tổng khởi nghĩa](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md).
 
 ## Liên kết
-- [[09_Bai_hoc/Chop thoi co|Bài học chớp thời cơ]]
+- [Bài học chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)

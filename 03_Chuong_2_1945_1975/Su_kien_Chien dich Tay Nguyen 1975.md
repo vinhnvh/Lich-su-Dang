@@ -9,5 +9,5 @@
 - Làm thay đổi cục diện chiến tranh, tạo đà cho các chiến dịch tiếp theo.
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Chien dich Hue Da Nang 1975|Chiến dịch Huế - Đà Nẵng]]
-- [[03_Chuong_2_1945_1975/Su_kien_Chien dich Ho Chi Minh 1975|Chiến dịch Hồ Chí Minh]]
+- [Chiến dịch Huế - Đà Nẵng](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Hue%20Da%20Nang%201975.md)
+- [Chiến dịch Hồ Chí Minh](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Ho%20Chi%20Minh%201975.md)

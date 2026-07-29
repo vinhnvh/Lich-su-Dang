@@ -13,4 +13,4 @@
 - Mỹ chuyển sang "Chiến tranh cục bộ".
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Chien luoc Chien tranh cuc bo|Chiến tranh cục bộ]]
+- [Chiến tranh cục bộ](03_Chuong_2_1945_1975/Su_kien_Chien%20luoc%20Chien%20tranh%20cuc%20bo.md)

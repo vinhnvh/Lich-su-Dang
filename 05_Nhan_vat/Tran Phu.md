@@ -12,9 +12,9 @@
 - **Tổng Bí thư đầu tiên của Đảng Cộng sản Đông Dương** (10/1930 - 4/1931)
 
 ### Tham gia các sự kiện quan trọng
-- [[02_Chuong_1_1930_1945/Su_kien_Thanh lap Dang|Thành lập Đảng (3/2/1930)]] – tham gia hoạt động.
-- [[02_Chuong_1_1930_1945/Su_kien_Cao trao 1930_1931_Xo viet Nghe Tinh|Cao trào 1930-1931]] – lãnh đạo phong trào.
-- [[07_Van_kien/Luan cuong chinh tri 10_1930|Luận cương chính trị 10/1930]] – tác giả soạn thảo.
+- [Thành lập Đảng (3/2/1930)](02_Chuong_1_1930_1945/Su_kien_Thanh%20lap%20Dang.md) – tham gia hoạt động.
+- [Cao trào 1930-1931](02_Chuong_1_1930_1945/Su_kien_Cao%20trao%201930_1931_Xo%20viet%20Nghe%20Tinh.md) – lãnh đạo phong trào.
+- [Luận cương chính trị 10/1930](07_Van_kien/Luan%20cuong%20chinh%20tri%2010_1930.md) – tác giả soạn thảo.
 - **Hội nghị Trung ương lần thứ nhất (10/1930)** – được bầu làm Tổng Bí thư.
 
 ### Ủy viên Ban Chấp hành Trung ương
@@ -24,7 +24,7 @@
 ## Đóng góp quan trọng
 
 ### 1. Soạn thảo Luận cương chính trị (10/1930)
-- Là tác giả của **[[07_Van_kien/Luan cuong chinh tri 10_1930|Luận cương chính trị của Đảng Cộng sản Đông Dương]]**.
+- Là tác giả của **[Luận cương chính trị của Đảng Cộng sản Đông Dương](07_Van_kien/Luan%20cuong%20chinh%20tri%2010_1930.md)**.
 - Xác định tính chất, nhiệm vụ và lực lượng cách mạng.
 - Khẳng định vai trò lãnh đạo của Đảng Cộng sản và liên minh công-nông.
 
@@ -34,7 +34,7 @@
 
 ### 3. Lãnh đạo phong trào cách mạng 1930-1931
 - Trực tiếp chỉ đạo phong trào đấu tranh của công nhân và nông dân.
-- Đề ra chủ trương, đường lối cho [[02_Chuong_1_1930_1945/Su_kien_Cao trao 1930_1931_Xo viet Nghe Tinh|Cao trào 1930-1931]].
+- Đề ra chủ trương, đường lối cho [Cao trào 1930-1931](02_Chuong_1_1930_1945/Su_kien_Cao%20trao%201930_1931_Xo%20viet%20Nghe%20Tinh.md).
 
 ### 4. Hy sinh oanh liệt
 - Bị thực dân Pháp bắt ngày 18/4/1931 tại Sài Gòn.
@@ -43,13 +43,13 @@
 - Đã có công lao to lớn trong việc xây dựng Đảng và phong trào cách mạng, là tấm gương sáng về đạo đức cách mạng.
 
 ## Mối quan hệ với các nhân vật khác
-- **[[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]** – Được Nguyễn Ái Quốc tin tưởng giao trọng trách, trở thành Tổng Bí thư đầu tiên.
-- **[[05_Nhan_vat/Truong Chinh|Trường Chinh]]** – Kế tục sự nghiệp, cùng là Tổng Bí thư sau này.
-- **[[05_Nhan_vat/Le Duan|Lê Duẩn]]** – Cùng tham gia phong trào cách mạng giai đoạn đầu.
+- **[Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)** – Được Nguyễn Ái Quốc tin tưởng giao trọng trách, trở thành Tổng Bí thư đầu tiên.
+- **[Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)** – Kế tục sự nghiệp, cùng là Tổng Bí thư sau này.
+- **[Lê Duẩn](05_Nhan_vat/Le%20Duan.md)** – Cùng tham gia phong trào cách mạng giai đoạn đầu.
 
 ## Các văn kiện liên quan
-- [[07_Van_kien/Luan cuong chinh tri 10_1930|Luận cương chính trị (10/1930)]] – tác phẩm chính của ông.
-- [[07_Van_kien/Cuong linh chinh tri dau tien|Cương lĩnh chính trị đầu tiên (1930)]] – cơ sở để ông soạn thảo Luận cương.
+- [Luận cương chính trị (10/1930)](07_Van_kien/Luan%20cuong%20chinh%20tri%2010_1930.md) – tác phẩm chính của ông.
+- [Cương lĩnh chính trị đầu tiên (1930)](07_Van_kien/Cuong%20linh%20chinh%20tri%20dau%20tien.md) – cơ sở để ông soạn thảo Luận cương.
 
 ## Thành tựu và ghi nhận
 - Là **Tổng Bí thư đầu tiên** của Đảng.
@@ -59,26 +59,26 @@
 
 ## Liên kết
 ### Sự kiện
-- [[02_Chuong_1_1930_1945/Su_kien_Thanh lap Dang|Thành lập Đảng (3/2/1930)]]
-- [[02_Chuong_1_1930_1945/Su_kien_Cao trao 1930_1931_Xo viet Nghe Tinh|Cao trào 1930-1931]]
-- [[02_Chuong_1_1930_1945/Su_kien_Hoi nghi hop nhat|Hội nghị hợp nhất]]
+- [Thành lập Đảng (3/2/1930)](02_Chuong_1_1930_1945/Su_kien_Thanh%20lap%20Dang.md)
+- [Cao trào 1930-1931](02_Chuong_1_1930_1945/Su_kien_Cao%20trao%201930_1931_Xo%20viet%20Nghe%20Tinh.md)
+- [Hội nghị hợp nhất](02_Chuong_1_1930_1945/Su_kien_Hoi%20nghi%20hop%20nhat.md)
 
 ### Nhân vật
-- [[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]
-- [[05_Nhan_vat/Truong Chinh|Trường Chinh]]
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
-- [[05_Nhan_vat/Nguyen Van Cu|Nguyễn Văn Cừ]]
-- [[05_Nhan_vat/Le Hong Phong|Lê Hồng Phong]]
-- [[05_Nhan_vat/Ha Huy Tap|Hà Huy Tập]]
+- [Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)
+- [Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
+- [Nguyễn Văn Cừ](05_Nhan_vat/Nguyen%20Van%20Cu.md)
+- [Lê Hồng Phong](05_Nhan_vat/Le%20Hong%20Phong.md)
+- [Hà Huy Tập](05_Nhan_vat/Ha%20Huy%20Tap.md)
 
 ### Văn kiện
-- [[07_Van_kien/Luan cuong chinh tri 10_1930|Luận cương chính trị 10/1930]]
-- [[07_Van_kien/Cuong linh chinh tri dau tien|Cương lĩnh 1930]]
+- [Luận cương chính trị 10/1930](07_Van_kien/Luan%20cuong%20chinh%20tri%2010_1930.md)
+- [Cương lĩnh 1930](07_Van_kien/Cuong%20linh%20chinh%20tri%20dau%20tien.md)
 
 ### Bài học
-- [[09_Bai_hoc/Xay dung Dang|Xây dựng Đảng vững mạnh]]
-- [[09_Bai_hoc/Ket hop suc manh dan toc va thoi dai|Kết hợp sức mạnh dân tộc và thời đại]]
+- [Xây dựng Đảng vững mạnh](09_Bai_hoc/Xay%20dung%20Dang.md)
+- [Kết hợp sức mạnh dân tộc và thời đại](09_Bai_hoc/Ket%20hop%20suc%20manh%20dan%20toc%20va%20thoi%20dai.md)
 
 ### Tư tưởng
-- [[08_Tu_tuong/Dao duc|Tư tưởng đạo đức cách mạng]]
-- [[08_Tu_tuong/Doc lap dan toc|Tư tưởng độc lập dân tộc]]
+- [Tư tưởng đạo đức cách mạng](08_Tu_tuong/Dao%20duc.md)
+- [Tư tưởng độc lập dân tộc](08_Tu_tuong/Doc%20lap%20dan%20toc.md)

@@ -13,5 +13,5 @@
 - Năm 1969, thành lập Chính phủ cách mạng lâm thời.
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Phong trao Dong khoi 1960|Đồng khởi]]
-- [[03_Chuong_2_1945_1975/Su_kien_Chien luoc Chien tranh dac biet|Chiến tranh đặc biệt]]
+- [Đồng khởi](03_Chuong_2_1945_1975/Su_kien_Phong%20trao%20Dong%20khoi%201960.md)
+- [Chiến tranh đặc biệt](03_Chuong_2_1945_1975/Su_kien_Chien%20luoc%20Chien%20tranh%20dac%20biet.md)

@@ -11,6 +11,6 @@
 - Kết hợp hài hòa vấn đề dân tộc và giai cấp.
 
 ## Liên kết
-- [[02_Chuong_1_1930_1945/Su_kien_Thanh lap Dang|Thành lập Đảng]]
-- [[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]
-- [[07_Van_kien/Luan cuong chinh tri 10_1930|Luận cương 10/1930]]
+- [Thành lập Đảng](02_Chuong_1_1930_1945/Su_kien_Thanh%20lap%20Dang.md)
+- [Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)
+- [Luận cương 10/1930](07_Van_kien/Luan%20cuong%20chinh%20tri%2010_1930.md)

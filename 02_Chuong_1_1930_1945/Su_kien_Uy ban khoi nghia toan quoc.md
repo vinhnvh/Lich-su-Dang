@@ -12,4 +12,4 @@
 - Tạo khí thế cách mạng sục sôi trong toàn quốc.
 
 ## Liên kết
-- [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Cách mạng Tháng Tám]]
+- [Cách mạng Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md)

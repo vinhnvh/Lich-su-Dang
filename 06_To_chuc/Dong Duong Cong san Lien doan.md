@@ -8,5 +8,5 @@
 - Gia nhập Đảng Cộng sản Việt Nam ngày 24/2/1930.
 
 ## Liên kết
-- [[06_To_chuc/Dong Duong Cong san Dang|Đông Dương Cộng sản Đảng]]
-- [[06_To_chuc/An Nam Cong san Dang|An Nam Cộng sản Đảng]]
+- [Đông Dương Cộng sản Đảng](06_To_chuc/Dong%20Duong%20Cong%20san%20Dang.md)
+- [An Nam Cộng sản Đảng](06_To_chuc/An%20Nam%20Cong%20san%20Dang.md)

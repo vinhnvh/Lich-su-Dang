@@ -8,5 +8,5 @@
 - Tinh thần "thà hy sinh tất cả chứ không chịu mất nước".
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Khang chien chong Phap|Kháng chiến chống Pháp]]
-- [[07_Van_kien/Loi keu goi Toan quoc khang chien|Lời kêu gọi toàn quốc kháng chiến]]
+- [Kháng chiến chống Pháp](03_Chuong_2_1945_1975/Su_kien_Khang%20chien%20chong%20Phap.md)
+- [Lời kêu gọi toàn quốc kháng chiến](07_Van_kien/Loi%20keu%20goi%20Toan%20quoc%20khang%20chien.md)

@@ -8,5 +8,5 @@
 - Cương lĩnh cho thời kỳ công nghiệp hóa, hiện đại hóa và hội nhập.
 
 ## Liên kết
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XI 2011|Đại hội XI]]
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]]
+- [Đại hội XI](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XI%202011.md)
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md)

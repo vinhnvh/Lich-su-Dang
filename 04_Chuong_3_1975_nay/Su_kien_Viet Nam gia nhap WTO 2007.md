@@ -2,8 +2,8 @@
 
 ## Bối cảnh
 - Xu thế toàn cầu hóa.
-- Sau [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VI_Doi moi 1986|Đại hội VI]], Việt Nam bắt đầu đổi mới và hội nhập.
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi IX 2001|Đại hội IX]] khẳng định hội nhập kinh tế quốc tế.
+- Sau [Đại hội VI](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VI_Doi%20moi%201986.md), Việt Nam bắt đầu đổi mới và hội nhập.
+- [Đại hội IX](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20IX%202001.md) khẳng định hội nhập kinh tế quốc tế.
 
 ## Quá trình đàm phán
 - 1995: Nộp đơn xin gia nhập.
@@ -21,9 +21,9 @@
 - Áp lực cải cách.
 
 ## Liên kết
-- [[05_Nhan_vat/Nong Duc Manh|Nông Đức Mạnh]]
-- [[05_Nhan_vat/Nguyen Phu Trong|Nguyễn Phú Trọng]]
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]]
-- [[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung 2011]]
-- [[09_Bai_hoc/Chop thoi co|Bài học chớp thời cơ]]
-- [[09_Bai_hoc/Ket hop suc manh dan toc va thoi dai|Kết hợp sức mạnh]]
+- [Nông Đức Mạnh](05_Nhan_vat/Nong%20Duc%20Manh.md)
+- [Nguyễn Phú Trọng](05_Nhan_vat/Nguyen%20Phu%20Trong.md)
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md)
+- [Cương lĩnh bổ sung 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md)
+- [Bài học chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)
+- [Kết hợp sức mạnh](09_Bai_hoc/Ket%20hop%20suc%20manh%20dan%20toc%20va%20thoi%20dai.md)

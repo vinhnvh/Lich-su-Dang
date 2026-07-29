@@ -11,5 +11,5 @@
 - Tạo thế để ta chuẩn bị cho giải phóng hoàn toàn miền Nam.
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Chien dich Ho Chi Minh 1975|Chiến dịch Hồ Chí Minh]]
-- [[05_Nhan_vat/Pham Van Dong|Phạm Văn Đồng]]
+- [Chiến dịch Hồ Chí Minh](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Ho%20Chi%20Minh%201975.md)
+- [Phạm Văn Đồng](05_Nhan_vat/Pham%20Van%20Dong.md)

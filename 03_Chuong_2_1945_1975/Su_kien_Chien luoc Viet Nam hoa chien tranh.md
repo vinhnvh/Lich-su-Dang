@@ -7,8 +7,8 @@
 ## Phản công
 - Ta đẩy mạnh đấu tranh cả ba vùng chiến lược.
 - Phối hợp với cách mạng Lào, Campuchia đánh bại các kế hoạch của địch.
-- Thắng lợi trên bàn đàm phán dẫn đến [[03_Chuong_2_1945_1975/Su_kien_Hiep dinh Paris 1973|Hiệp định Paris (1973)]].
+- Thắng lợi trên bàn đàm phán dẫn đến [Hiệp định Paris (1973)](03_Chuong_2_1945_1975/Su_kien_Hiep%20dinh%20Paris%201973.md).
 
 ## Liên kết
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
-- [[06_To_chuc/Mat tran Dan toc giai phong mien Nam|Mặt trận giải phóng]]
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
+- [Mặt trận giải phóng](06_To_chuc/Mat%20tran%20Dan%20toc%20giai%20phong%20mien%20Nam.md)

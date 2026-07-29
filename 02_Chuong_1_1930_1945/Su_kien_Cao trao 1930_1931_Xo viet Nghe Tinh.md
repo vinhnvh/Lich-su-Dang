@@ -11,5 +11,5 @@
 - Để lại bài học về liên minh công – nông và sử dụng bạo lực cách mạng.
 
 ## Liên kết
-- [[07_Van_kien/Luan cuong chinh tri 10_1930|Luận cương 10/1930]]
-- [[05_Nhan_vat/Tran Phu|Trần Phú]]
+- [Luận cương 10/1930](07_Van_kien/Luan%20cuong%20chinh%20tri%2010_1930.md)
+- [Trần Phú](05_Nhan_vat/Tran%20Phu.md)

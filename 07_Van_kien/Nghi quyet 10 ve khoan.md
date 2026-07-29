@@ -12,5 +12,5 @@
 - Đưa Việt Nam từ nhập khẩu thành xuất khẩu lương thực (1989).
 
 ## Liên kết
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi VI_Doi moi 1986|Đại hội VI]]
-- [[07_Van_kien/Chi thi 100 ve khoan|Chỉ thị 100]]
+- [Đại hội VI](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20VI_Doi%20moi%201986.md)
+- [Chỉ thị 100](07_Van_kien/Chi%20thi%20100%20ve%20khoan.md)

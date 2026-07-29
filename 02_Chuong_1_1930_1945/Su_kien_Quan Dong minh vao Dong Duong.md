@@ -13,5 +13,5 @@
 - Sau đó dùng sách lược mềm dẻo đối phó.
 
 ## Liên kết
-- [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Cách mạng Tháng Tám]]
-- [[09_Bai_hoc/Chop thoi co|Bài học chớp thời cơ]]
+- [Cách mạng Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md)
+- [Bài học chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)

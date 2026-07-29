@@ -6,5 +6,5 @@
 - Mục tiêu: dân giàu, nước mạnh, xã hội công bằng, văn minh.
 
 ## Liên kết
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi IX 2001|Đại hội IX]]
-- [[05_Nhan_vat/Do Muoi|Đỗ Mười]]
+- [Đại hội IX](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20IX%202001.md)
+- [Đỗ Mười](05_Nhan_vat/Do%20Muoi.md)

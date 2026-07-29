@@ -10,7 +10,7 @@
 
 ### Tổng Bí thư
 - **Tổng Bí thư Đảng Cộng sản Việt Nam** (2011 - nay)
-- Tái đắc cử tại [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XII 2016|Đại hội XII (2016)]]
+- Tái đắc cử tại [Đại hội XII (2016)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XII%202016.md)
 - Tái đắc cử tại Đại hội XIII (2021)
 
 ### Chủ tịch nước
@@ -20,11 +20,11 @@
 - **Chủ tịch Quốc hội nước Cộng hòa Xã hội chủ nghĩa Việt Nam** (2006 - 2011)
 
 ### Tham gia các sự kiện quan trọng
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XI 2011|Đại hội XI (2011)]] – được bầu làm Tổng Bí thư.
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XII 2016|Đại hội XII (2016)]] – tái đắc cử Tổng Bí thư.
-- [[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung 2011]] – thông qua dưới sự lãnh đạo của ông.
-- [[09_Bai_hoc/Xay dung Dang|Nghị quyết Trung ương 4 khóa XI (2012)]] – về xây dựng Đảng.
-- [[09_Bai_hoc/Xay dung Dang|Nghị quyết Trung ương 4 khóa XII (2016)]] – về tăng cường xây dựng, chỉnh đốn Đảng.
+- [Đại hội XI (2011)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XI%202011.md) – được bầu làm Tổng Bí thư.
+- [Đại hội XII (2016)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XII%202016.md) – tái đắc cử Tổng Bí thư.
+- [Cương lĩnh bổ sung 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md) – thông qua dưới sự lãnh đạo của ông.
+- [Nghị quyết Trung ương 4 khóa XI (2012)](09_Bai_hoc/Xay%20dung%20Dang.md) – về xây dựng Đảng.
+- [Nghị quyết Trung ương 4 khóa XII (2016)](09_Bai_hoc/Xay%20dung%20Dang.md) – về tăng cường xây dựng, chỉnh đốn Đảng.
 
 ### Ủy viên Bộ Chính trị
 - **Ủy viên Bộ Chính trị các khóa VIII, IX, X, XI, XII, XIII**
@@ -33,13 +33,13 @@
 ## Đóng góp quan trọng
 
 ### 1. Xây dựng và chỉnh đốn Đảng
-- Là người đứng đầu công cuộc xây dựng, chỉnh đốn Đảng, đặc biệt từ sau [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XI 2011|Đại hội XI (2011)]].
+- Là người đứng đầu công cuộc xây dựng, chỉnh đốn Đảng, đặc biệt từ sau [Đại hội XI (2011)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XI%202011.md).
 - Ban hành **Nghị quyết Trung ương 4 khóa XI (2012)** về "Một số vấn đề cấp bách về xây dựng Đảng hiện nay".
 - Ban hành **Nghị quyết Trung ương 4 khóa XII (2016)** về "Tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, những biểu hiện 'tự diễn biến', 'tự chuyển hóa' trong nội bộ".
 - Kiên quyết đấu tranh phòng, chống tham nhũng, tiêu cực, được nhân dân đồng tình ủng hộ.
 
 ### 2. Hoàn thiện thể chế và phát triển đất nước
-- Lãnh đạo thông qua **[[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung, phát triển năm 2011]]** tại [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XI 2011|Đại hội XI (2011)]].
+- Lãnh đạo thông qua **[Cương lĩnh bổ sung, phát triển năm 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md)** tại [Đại hội XI (2011)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XI%202011.md).
 - Lãnh đạo xây dựng và thực hiện Chiến lược phát triển kinh tế - xã hội 2011-2020.
 - Tiếp tục hoàn thiện thể chế **kinh tế thị trường định hướng xã hội chủ nghĩa**.
 - Thúc đẩy đổi mới mô hình tăng trưởng, cơ cấu lại nền kinh tế.
@@ -67,15 +67,15 @@
 - Nhiều bài viết, bài nói về xây dựng Đảng, phòng chống tham nhũng, đổi mới và phát triển.
 
 ## Mối quan hệ với các nhân vật khác
-- **[[05_Nhan_vat/Nong Duc Manh|Nông Đức Mạnh]]** – Là người kế tục sự nghiệp sau khi Nông Đức Mạnh từ nhiệm.
-- **[[05_Nhan_vat/Do Muoi|Đỗ Mười]]** – Là nhà lãnh đạo tiền bối có ảnh hưởng đến tư tưởng xây dựng Đảng.
-- **[[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]** – Là người tiếp tục thực hiện tư tưởng xây dựng Đảng trong sạch, vững mạnh.
-- **[[05_Nhan_vat/Truong Chinh|Trường Chinh]]** – Cùng có quan điểm về xây dựng Đảng và tự phê bình.
+- **[Nông Đức Mạnh](05_Nhan_vat/Nong%20Duc%20Manh.md)** – Là người kế tục sự nghiệp sau khi Nông Đức Mạnh từ nhiệm.
+- **[Đỗ Mười](05_Nhan_vat/Do%20Muoi.md)** – Là nhà lãnh đạo tiền bối có ảnh hưởng đến tư tưởng xây dựng Đảng.
+- **[Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)** – Là người tiếp tục thực hiện tư tưởng xây dựng Đảng trong sạch, vững mạnh.
+- **[Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)** – Cùng có quan điểm về xây dựng Đảng và tự phê bình.
 
 ## Các văn kiện liên quan
-- [[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung 2011]]
-- [[07_Van_kien/Di chich Ho Chi Minh|Di chúc Hồ Chí Minh]]
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]]
+- [Cương lĩnh bổ sung 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md)
+- [Di chúc Hồ Chí Minh](07_Van_kien/Di%20chich%20Ho%20Chi%20Minh.md)
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md)
 
 ## Thành tựu và ghi nhận
 - Là nhà lãnh đạo xuất sắc của Đảng và Nhà nước thời kỳ đổi mới và hội nhập.
@@ -85,34 +85,34 @@
 
 ## Liên kết
 ### Sự kiện
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XI 2011|Đại hội XI (2011)]]
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi XII 2016|Đại hội XII (2016)]]
-- [[04_Chuong_3_1975_nay/Su_kien_Viet Nam gia nhap WTO 2007|Gia nhập WTO]]
-- [[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung 2011]]
+- [Đại hội XI (2011)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XI%202011.md)
+- [Đại hội XII (2016)](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20XII%202016.md)
+- [Gia nhập WTO](04_Chuong_3_1975_nay/Su_kien_Viet%20Nam%20gia%20nhap%20WTO%202007.md)
+- [Cương lĩnh bổ sung 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md)
 
 ### Nhân vật
-- [[05_Nhan_vat/Nong Duc Manh|Nông Đức Mạnh]]
-- [[05_Nhan_vat/Do Muoi|Đỗ Mười]]
-- [[05_Nhan_vat/Ho Chi Minh|Hồ Chí Minh]]
-- [[05_Nhan_vat/Truong Chinh|Trường Chinh]]
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
+- [Nông Đức Mạnh](05_Nhan_vat/Nong%20Duc%20Manh.md)
+- [Đỗ Mười](05_Nhan_vat/Do%20Muoi.md)
+- [Hồ Chí Minh](05_Nhan_vat/Ho%20Chi%20Minh.md)
+- [Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
 
 ### Văn kiện
-- [[07_Van_kien/Cuong linh bo sung 2011|Cương lĩnh bổ sung 2011]]
-- [[07_Van_kien/Cuong linh 1991|Cương lĩnh 1991]]
-- [[07_Van_kien/Di chich Ho Chi Minh|Di chúc Hồ Chí Minh]]
+- [Cương lĩnh bổ sung 2011](07_Van_kien/Cuong%20linh%20bo%20sung%202011.md)
+- [Cương lĩnh 1991](07_Van_kien/Cuong%20linh%201991.md)
+- [Di chúc Hồ Chí Minh](07_Van_kien/Di%20chich%20Ho%20Chi%20Minh.md)
 
 ### Bài học
-- [[09_Bai_hoc/Xay dung Dang|Xây dựng Đảng vững mạnh]]
-- [[09_Bai_hoc/Ket hop suc manh dan toc va thoi dai|Kết hợp sức mạnh dân tộc và thời đại]]
-- [[09_Bai_hoc/Chop thoi co|Nghệ thuật chớp thời cơ]]
+- [Xây dựng Đảng vững mạnh](09_Bai_hoc/Xay%20dung%20Dang.md)
+- [Kết hợp sức mạnh dân tộc và thời đại](09_Bai_hoc/Ket%20hop%20suc%20manh%20dan%20toc%20va%20thoi%20dai.md)
+- [Nghệ thuật chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)
 
 ### Tư tưởng
-- [[08_Tu_tuong/Dao duc|Tư tưởng đạo đức cách mạng]]
-- [[08_Tu_tuong/Dai doan ket|Tư tưởng đại đoàn kết]]
-- [[08_Tu_tuong/Nha nuoc cua dan|Tư tưởng Nhà nước của dân]]
-- [[08_Tu_tuong/Doc lap dan toc|Tư tưởng độc lập dân tộc]]
+- [Tư tưởng đạo đức cách mạng](08_Tu_tuong/Dao%20duc.md)
+- [Tư tưởng đại đoàn kết](08_Tu_tuong/Dai%20doan%20ket.md)
+- [Tư tưởng Nhà nước của dân](08_Tu_tuong/Nha%20nuoc%20cua%20dan.md)
+- [Tư tưởng độc lập dân tộc](08_Tu_tuong/Doc%20lap%20dan%20toc.md)
 
 ### Nhà nước
-- [[10_Quy_che_To_chuc_Nha_nuoc/Nha_nuoc_Cong hoa XHCN Viet Nam|Cộng hòa XHCN Việt Nam]]
-- [[10_Quy_che_To_chuc_Nha_nuoc/Hien phap 1946|Hiến pháp 1946]]
+- [Cộng hòa XHCN Việt Nam](10_Quy_che_To_chuc_Nha_nuoc/Nha_nuoc_Cong%20hoa%20XHCN%20Viet%20Nam.md)
+- [Hiến pháp 1946](10_Quy_che_To_chuc_Nha_nuoc/Hien%20phap%201946.md)

@@ -11,7 +11,7 @@
 - Vừa kháng chiến vừa xây dựng CNXH ở miền Bắc.
 
 ## Liên kết
-- [[05_Nhan_vat/Le Duan|Lê Duẩn]]
-- [[05_Nhan_vat/Truong Chinh|Trường Chinh]]
-- [[03_Chuong_2_1945_1975/Su_kien_Chien dich Ho Chi Minh 1975|Chiến dịch Hồ Chí Minh]]
-- [[08_Tu_tuong/Doc lap dan toc|Tư tưởng độc lập dân tộc]]
+- [Lê Duẩn](05_Nhan_vat/Le%20Duan.md)
+- [Trường Chinh](05_Nhan_vat/Truong%20Chinh.md)
+- [Chiến dịch Hồ Chí Minh](03_Chuong_2_1945_1975/Su_kien_Chien%20dich%20Ho%20Chi%20Minh%201975.md)
+- [Tư tưởng độc lập dân tộc](08_Tu_tuong/Doc%20lap%20dan%20toc.md)

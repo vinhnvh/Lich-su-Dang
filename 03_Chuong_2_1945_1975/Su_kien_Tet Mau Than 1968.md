@@ -14,5 +14,5 @@
 - Tuy có sai sót về chỉ đạo chiến thuật sau đó, nhưng đây là bước ngoặt chiến lược.
 
 ## Liên kết
-- [[03_Chuong_2_1945_1975/Su_kien_Chien luoc Chien tranh cuc bo|Chiến tranh cục bộ]]
-- [[03_Chuong_2_1945_1975/Su_kien_Hiep dinh Paris 1973|Hiệp định Paris]]
+- [Chiến tranh cục bộ](03_Chuong_2_1945_1975/Su_kien_Chien%20luoc%20Chien%20tranh%20cuc%20bo.md)
+- [Hiệp định Paris](03_Chuong_2_1945_1975/Su_kien_Hiep%20dinh%20Paris%201973.md)

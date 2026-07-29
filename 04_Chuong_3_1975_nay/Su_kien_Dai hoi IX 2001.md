@@ -3,8 +3,8 @@
 ## Điểm mới
 - Khẳng định mô hình **kinh tế thị trường định hướng XHCN**.
 - Đẩy mạnh hội nhập quốc tế.
-- Bầu [[05_Nhan_vat/Nong Duc Manh|Nông Đức Mạnh]] làm Tổng Bí thư.
+- Bầu [Nông Đức Mạnh](05_Nhan_vat/Nong%20Duc%20Manh.md) làm Tổng Bí thư.
 
 ## Liên kết
-- [[04_Chuong_3_1975_nay/Su_kien_Dai hoi X 2006|Đại hội X]]
-- [[04_Chuong_3_1975_nay/Su_kien_Viet Nam gia nhap WTO 2007|Gia nhập WTO]]
+- [Đại hội X](04_Chuong_3_1975_nay/Su_kien_Dai%20hoi%20X%202006.md)
+- [Gia nhập WTO](04_Chuong_3_1975_nay/Su_kien_Viet%20Nam%20gia%20nhap%20WTO%202007.md)

@@ -6,10 +6,10 @@
 - Sức mạnh thời đại: ủng hộ quốc tế, xu thế thời đại.
 
 ## Biểu hiện
-- [[02_Chuong_1_1930_1945/Su_kien_Cach mang Thang Tam 1945|Cách mạng Tháng Tám]].
-- [[03_Chuong_2_1945_1975/Su_kien_Dien Bien Phu 1954|Điện Biên Phủ]].
-- [[04_Chuong_3_1975_nay/Su_kien_Viet Nam gia nhap WTO 2007|WTO]].
+- [Cách mạng Tháng Tám](02_Chuong_1_1930_1945/Su_kien_Cach%20mang%20Thang%20Tam%201945.md).
+- [Điện Biên Phủ](03_Chuong_2_1945_1975/Su_kien_Dien%20Bien%20Phu%201954.md).
+- [WTO](04_Chuong_3_1975_nay/Su_kien_Viet%20Nam%20gia%20nhap%20WTO%202007.md).
 
 ## Liên kết
-- [[08_Tu_tuong/Ket hop suc manh dan toc va thoi dai|Tư tưởng kết hợp sức mạnh]]
-- [[09_Bai_hoc/Chop thoi co|Chớp thời cơ]]
+- [Tư tưởng kết hợp sức mạnh](08_Tu_tuong/Ket%20hop%20suc%20manh%20dan%20toc%20va%20thoi%20dai.md)
+- [Chớp thời cơ](09_Bai_hoc/Chop%20thoi%20co.md)
