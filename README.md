@@ -1,6 +1,6 @@
-# Lịch sử Đảng Cộng sản Việt Nam - Obsidian Vault
+# Lịch sử Đảng Cộng sản Việt Nam
 
-Kho tàng kiến thức tổng hợp môn Lịch sử Đảng Cộng sản Việt Nam, được tổ chức dưới dạng Obsidian Vault với hệ thống liên kết chặt chẽ.
+Kho tàng kiến thức tổng hợp môn Lịch sử Đảng Cộng sản Việt Nam, được tổ chức dưới dạng Markdown.
 
 ## 📚 Nội dung
 
