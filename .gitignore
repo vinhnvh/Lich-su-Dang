@@ -1,4 +1,11 @@
+# Chặn toàn bộ thư mục cài đặt của Obsidian
+.obsidian/
+
+# Chặn file rác hệ điều hành
 .DS_Store
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.trash/
+Thumbs.db
+desktop.ini
+
+# Chặn các file script nếu có
+*.py
+*.log
